@@ -9,5 +9,9 @@
 <body>
 <h1>Hello</h1>
 <h1>raja</h1>
+<form action="Sample" method="post">
+<input type="text" name="name"/>
+<input type="submit" value="submit"/>
+</form>
 </body>
 </html>
